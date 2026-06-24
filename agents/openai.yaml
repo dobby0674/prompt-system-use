@@ -1,4 +1,4 @@
 interface:
-  display_name: "Expert System Prompt"
+  display_name: "Prompt System Use"
   short_description: "Turn rough materials into expert-grade system prompts."
-  default_prompt: "Use $expert-system-prompt to turn my references and rough idea into a polished system prompt with simulation cases."
+  default_prompt: "Use $prompt-system-use to turn my references and rough idea into a polished system prompt with simulation cases."

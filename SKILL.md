@@ -1,9 +1,9 @@
 ---
-name: expert-system-prompt
+name: prompt-system-use
 description: Transform rough ideas, reference materials, website links, Word documents, slide decks, or other source materials into an expert-grade system prompt through clarification, structured synthesis, and simulation-based iteration. Use when the user says they are a beginner in a domain but wants expert-level output, asks to convert materials into a system prompt, wants prompt engineering help before generating final content, or needs examples of how a prompt will behave before approving it.
 ---
 
-# Expert System Prompt
+# Prompt System Use
 
 ## Overview
 

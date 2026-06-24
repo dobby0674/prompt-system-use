@@ -1,4 +1,4 @@
-# Expert System Prompt
+# Prompt System Use
 
 Codex skill for turning rough ideas, links, Word documents, slides, and other reference materials into expert-grade system prompts through clarification, structured synthesis, and simulation-based iteration.
 
@@ -7,13 +7,13 @@ Codex skill for turning rough ideas, links, Word documents, slides, and other re
 Copy this folder to your Codex skills directory:
 
 ```text
-C:\Users\<your-user>\.codex\skills\expert-system-prompt
+C:\Users\<your-user>\.codex\skills\prompt-system-use
 ```
 
 Restart Codex, then invoke:
 
 ```text
-$expert-system-prompt
+$prompt-system-use
 ```
 
 ## What It Does
